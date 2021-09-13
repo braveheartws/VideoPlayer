@@ -1,0 +1,3 @@
+FFMpeg音视频开发API
+播放进度控制
+av_seek_frame()
